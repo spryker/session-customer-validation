@@ -4,6 +4,9 @@
 
 Module provides functionality to persist customer's session id and validate active session.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker-shop/session-customer-validation-page](https://github.com/spryker-shop/session-customer-validation-page) instead.
+
 ## Installation
 
 ```
